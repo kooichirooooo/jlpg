@@ -25,3 +25,5 @@ Manifest.toml
 
 # Remote container environment variables
 .devcontainer/devcontainer.env
+
+.ipynb_checkpoints
